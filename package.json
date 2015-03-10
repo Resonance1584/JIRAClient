@@ -1,0 +1,34 @@
+{
+  "name": "JIRAClient",
+  "version": "0.1.0",
+  "description": "JIRA API Client",
+  "main": "JIRAClient.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Resonance1584/JIRAClient.git"
+  },
+  "dependencies": {
+    "url-join": "0.0.1"
+  },
+  "devDependencies": {
+    "jshint": "2.6.3"
+  },
+  "keywords": [
+    "JIRA",
+    "Atlassian",
+    "API",
+    "client"
+  ],
+  "author": "Lewis Christie <lewis.christie@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Resonance1584/JIRAClient/issues"
+  },
+  "homepage": "https://github.com/Resonance1584/JIRAClient"
+}
