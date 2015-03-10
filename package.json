@@ -1,5 +1,5 @@
 {
-  "name": "JIRAClient",
+  "name": "jiraclient",
   "version": "0.1.0",
   "description": "JIRA API Client",
   "main": "JIRAClient.js",

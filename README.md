@@ -11,7 +11,7 @@ Usage
 var host     = 'myaccount.atlassian.net';
 var username = 'myUsername';
 var password = 'myPassword';
-var jira = require('JIRAClient')(host, username, password);
+var jira = require('jiraclient')(host, username, password);
 
 //Fetch an Issue
 jira.getIssue('100101', function (err, issue) {
