@@ -8,7 +8,7 @@ Usage
 
 ```js
 //Create a new Client
-var host     = 'mediasuite.atlassian.net';
+var host     = 'myaccount.atlassian.net';
 var username = 'myUsername';
 var password = 'myPassword';
 var jira = require('JIRAClient')(host, username, password);
