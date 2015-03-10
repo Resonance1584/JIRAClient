@@ -47,3 +47,8 @@ getIssue(issueId, done)
 
 - __issueId__ _string_   JIRA Issue ID or Key
 - __done__    _Function_ Callback function
+
+Development
+===========
+
+Other API endpoints and methods will be added as I require them.
